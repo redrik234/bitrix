@@ -4,7 +4,7 @@
     <div class="row">
         <h1>Каталог:</h1>
     </div>
-    <div class="container-fluid=">
+    <div class="container-fluid">
         <ul>
             <?foreach($arResult['NEWS_CATALOG'] as $branch):?>
                 <li>
